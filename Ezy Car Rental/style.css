@@ -1,0 +1,174 @@
+* {
+    margin: 0;
+    padding: 0;
+    transition: .2s;
+    font-family: sans-serif;
+    text-transform: capitalize;
+    text-decoration: none;
+}
+
+html {
+    background: url(car-rental-fleet.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+section {
+    padding: 20px 4%;
+}
+
+header h2 {
+    font-size: 35px;
+    text-align: center;
+    margin-top: 10px;
+    color: white;
+}
+
+nav {
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+nav a {
+    text-decoration: 2px solid underline;
+    font-size: 20px;
+    margin-left: 10px;
+    color: white;
+}
+
+nav a:hover {
+    color: white;
+    letter-spacing: 1.1px;
+}
+
+.heading {
+    font-size: 40px;
+    letter-spacing: 2px;
+    color: white;
+    margin-bottom: 10px;
+}
+
+.RR1 {
+    display: ;
+    width: 500px;
+    margin: 20px;
+    margin-left: 50px;
+    border-radius: 0px;
+    opacity: 1;
+}
+
+.RR2 {
+    display: inline-block;
+    width: 100px;
+    margin: 20px;
+    margin-left: 50px;
+    border-radius: 5px;
+}
+
+.cards {
+    text-align: center;
+}
+
+.card {
+    display: inline-block;
+    text-align: left;
+    margin-left: 35px;
+}
+
+.card .title {
+    font-size: 20px;
+    font-weight: 600;
+    margin: 10px 0;
+    color: white;
+}
+
+.card img {
+    width: 300px;
+    height: 300px;
+    border-radius: 4px;
+}
+
+.desc {
+  color: white;
+    padding: 10px;
+}
+
+form {
+    border: 1px solid #999;
+    max-width: 500px;
+    padding: 10px 20px;
+    border-radius: 5px;
+    margin: 0 auto;
+}
+
+.inputGrp {
+    color: white;
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.inputField {
+    padding: 7px;
+    margin-left: 10px;
+    width: 70%;
+    outline: 1px solid #192627;
+}
+
+.btn {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    font-size: 17px;
+    background-color: #192627;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.sub-heading {
+    font-size: 25px;
+    letter-spacing: 2px;
+    text-decoration: 3px solid underline;
+    color: white;
+    margin-bottom: 10px;
+}
+
+.content {
+    font-size: 15px;
+    letter-spacing: 2px;
+    -webkit-text-stroke: 0.8px white;
+    color: white;
+    margin-bottom: 10px;
+}
+
+.content2 {
+    font-size: 15px;
+    letter-spacing: 2px;
+    -webkit-text-stroke: 0.8px white;
+    color: white;
+    margin-bottom: 1px;
+    text-align-last: end;
+    text-indent: 5000px;
+    }
+
+    .RR6 {
+        display: inline-block;
+        width: 200px;
+        margin: 100px;
+        margin-top: 500px;
+        border-radius: 5px;
+    }
+
+    .RR7 {
+        display: inline-block;
+        width: 100px;
+        margin: 20px;
+        margin-left: 50px;
+        border-radius: 5px;
+    }
